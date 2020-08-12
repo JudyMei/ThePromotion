@@ -7,6 +7,6 @@ Throughout the week, certain experiences will help shape your decision at the en
 ## Code Usage
 To use this code you have to clone in your RenPy folder.
 ## Game Download
-[PC Download](https://app.box.com/s/dq9hfgma0fe97za6cj6byo0clg0iesfh)
+[PC Download](https://app.box.com/s/dq9hfgma0fe97za6cj6byo0clg0iesfh) <br />
 [MAC Download](https://app.box.com/s/sa43aqlxknk0300hoixf1fn2e1ajbnwp)
 
